@@ -85,7 +85,7 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Vulkan Usage Recommencation](https://developer.samsung.com/game/usage) (for mobile)
 * Epic
     * [Efficient use of Vulkan on UE4 Mobile](https://community.arm.com/cfs-file/__key/telligent-evolution-extensions-calendar-calendarfiles/00-00-00-00-05/6_2D00_mmg_2D00_siggraph2016_2D00_vulkan_2D00_smedis.pdf)
-*  Khronos
+* Khronos
    * [Vulkan Guide](https://github.com/KhronosGroup/Vulkan-Guide)
 * [LunarG](https://lunarg.com)
     * [Vulkan SDK](https://vulkan.lunarg.com/)
@@ -98,6 +98,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     * [Automatic RelaxedPrecision Decoration and Conversion in Spirv-Opt](https://www.lunarg.com/news-insights/white-papers/automatic-relaxedprecision-decoration-and-conversion-in-spirv-opt/)
     * [SPIR-V Legalization and Size Reduction with spirv-opt](https://www.lunarg.com/news-insights/white-papers/spir-v-legalization-and-size-reduction-with-spirv-opt/)
     * [All White Papers](https://www.lunarg.com/vulkan-white-papers/)
+* Community
+    * [VulkanHub](https://vkdoc.net) 
 
 ## Tutorial
 *  [How to Learn Vulkan](https://www.jeremyong.com/c++/vulkan/graphics/rendering/2018/03/26/how-to-learn-vulkan.html) - Meta post on how to learn Vulkan
